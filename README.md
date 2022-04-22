@@ -8,7 +8,7 @@
 const Vladislav = {
   pronouns: "he" | "him",
   code: [C++, C, X86, Java, Pyhon, Swift, Javascript, PHP, SQL, Pascal, HTML, CSS, LaTex, Other],
-  tools: [Make, CMake, GTest, VueJS, Docker, Other],
+  tools: [Make, CMake, GTest, VueJS, Docker, Django, Flask, SCSS, Postgres, Other],
   architecture: ["microservices", "concurrency", "design system pattern"],
   techCommunities: {
                         coorganizer: "vhdev.ru",
