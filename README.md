@@ -20,6 +20,5 @@ const Vladislav = {
 }
 ```
 
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavHacker)](https://github.com/VladislavHacker/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=VladislavHacker)
 ---
