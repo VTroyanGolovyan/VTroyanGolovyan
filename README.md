@@ -17,7 +17,6 @@ const Vladislav = {
  challenge: "I am doing my homework"
 }
 ```
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladislavHacker)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=VladislavHacker)
 ---
