@@ -2,8 +2,6 @@
 <p><em>Software Enginner at <a href="https://www.mipt.ru">MIPT University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif"<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladislavHacker)](https://git.io/streak-stats)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -19,6 +17,7 @@ const Vladislav = {
  challenge: "I am doing my homework"
 }
 ```
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladislavHacker)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=VladislavHacker)
 ---
