@@ -14,7 +14,7 @@ const Vladislav = {
                         sofrware_developer: "Megaputer Intelligence",
                         teacher: "MIPT, profi.ru"
  },
- challenge: "I am doing my homework"
+ challenge: "New Year Chilling"
 }
 ```
 
