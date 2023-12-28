@@ -11,6 +11,7 @@ const Vladislav = {
   tools: [Make, CMake, GTest, VueJS, Docker, Django, Flask, SCSS, Postgres, Other],
   architecture: ["microservices", "concurrency", "design system pattern"],
   techCommunities: {
+                        sofrware_developer: "Megaputer Intelligence"
                         organizer: "vhdev.ru",
                         teacher: "MIPT, profi.ru"
  },
