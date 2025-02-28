@@ -9,7 +9,7 @@ const Vladislav = {
   tools: [Make, CMake, GTest, VueJS, Docker, Django, Flask, SCSS, Postgres, Other],
   architecture: ["microservices", "concurrency", "design system pattern"],
   techCommunities: {
-                        sofrware_developer: "Megaputer Intelligence",
+                        sofrware_developer: "Kaspersky",
                         teacher: "MIPT, profi.ru"
  },
  challenge: "..."
