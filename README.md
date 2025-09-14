@@ -10,7 +10,7 @@ const Vladislav = {
   architecture: ["microservices", "concurrency", "design system pattern"],
   techCommunities: {
                         sofrware_developer: "Kaspersky",
-                        teacher: "MIPT, profi.ru"
+                        teacher: "MIPT, HSE, profi.ru"
  },
  challenge: "..."
 }
